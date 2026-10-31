@@ -1,7 +1,7 @@
 # MindTheGap: A Jornada do Estudante Global
 
-> **Unidade Curricular:** Gamificação e Narrativas Interativas | Licenciatura em Tecnologias e Desenvolvimento Web (ESMAD)  
-> **Tema Selecionado:** Tema 5 - Percurso Académico e Saúde Mental  
+> **Unidade Curricular:** Gamificação e Narrativas Interativas e Desenvolvimento Web Front| TDW  
+> **Tema Selecionado:** Percurso Académico e Saúde Mental  
 > **Estado Atual:** Fase 1 Concluída (Game Design Document & Arquitetura de Conceito)
 
 ---
